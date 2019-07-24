@@ -1,0 +1,31 @@
+#title{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+​
+#btn-new-client{
+    display: flex;
+    align-content: flex-end;
+    align-items: flex-end;
+    margin-bottom: 2em;
+}
+​
+#btn-create-client{
+ display: flex;
+ align-content: center;   
+ align-items: center;
+ justify-content: center;
+}
+​
+#data-clients{
+    display: flex;
+    margin: 0 5%;
+}
+
+
+table{
+    margin: 5%;
+    width: 90%;
+}
